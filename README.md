@@ -7,7 +7,7 @@ Crafted with style, responsiveness, and clarity by **Wanestial Development**.
 
 ## 🌟 Live Preview
 
-![Velora Preview](https://your-image-link-here.com/preview.png)  
+![Velora Preview](preview.png)  
 *Experience all themes and responsive design.*
 
 ---
