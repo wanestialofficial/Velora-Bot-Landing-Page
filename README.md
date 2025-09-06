@@ -32,8 +32,43 @@
 
 ---
 
-## 📦 Installation & Hosting
+## 📦 Usage Instructions
 
-1. **Clone the repository:**
-```bash
-git clone https://github.com/yourusername/velora.git
+This repository is a **template-enabled project**:  
+
+1. Click **Use this template** to create your own copy.  
+2. **Forking is disabled** to ensure all copies use the template method.  
+3. Open `index.html` in your browser OR host online:  
+   - **Vercel:** Drag & drop repo → Deploy instantly  
+   - **GitHub Pages:** Push repository → Enable Pages  
+   - **Netlify:** Connect repository → Auto deployment  
+
+4. Customize your bot:  
+- Change **name, description, invite link, and features**  
+- Add screenshots/GIFs in `/assets` folder  
+- Modify themes with CSS or Tailwind classes  
+
+---
+
+## 💻 Support
+
+- Contact **Wanestial Development**: **[wanestialofficial@gmail.com]**  
+- Join our **support community** (if available)  
+- Guidance available for **setup, deployment, and theme customization**
+
+---
+
+## ⚠️ Important Notes
+
+- **No Redistribution:** Do not share, sell, or publicly redistribute this code  
+- **Credit Required:** Always retain **Wanestial Development** attribution  
+- Use for **personal or internal projects only**
+
+---
+
+## 📜 License
+
+See [LICENSE](LICENSE) for full terms.  
+© 2025 **Wanestial Development**
+
+---
