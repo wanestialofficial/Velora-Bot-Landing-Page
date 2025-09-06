@@ -23,7 +23,7 @@ Not allowed:
 - Any action that **harms the project or community**
 
 ## Reporting Issues
-Report any violations to **Wanestial Development** at **[your-email@example.com]**. All reports will be handled **confidentially, fairly, and promptly**.
+Report any violations to **Wanestial Development** at **wanestialofficial@gmail.com**. All reports will be handled **confidentially, fairly, and promptly**.
 
 ## Scope
 Applies to:
