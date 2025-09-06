@@ -1,6 +1,6 @@
 # ✨ Velora Bot Landing Page
 
-## A **professional, multi-theme landing page** for your Discord bot featuring **Dark, Light, Cyberpunk, Lofi, and Synthwave** themes.Crafted with style, responsiveness, and clarity by **Wanestial Development**.
+#### A **professional, multi-theme landing page** for your Discord bot featuring **Dark, Light, Cyberpunk, Lofi, and Synthwave** themes. Crafted with style, responsiveness, and clarity by **Wanestial Development**.
 ---
 
 ## 🌟 Live Preview
