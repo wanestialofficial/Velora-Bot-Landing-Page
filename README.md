@@ -52,8 +52,8 @@ This repository is a **template-enabled project**:
 
 ## 💻 Support
 
-- Contact **Wanestial Development**: **[wanestialofficial@gmail.com]**  
-- Join our **support community** (if available)  
+- Contact **Wanestial Development**: **wanestialofficial@gmail.com**  
+- Join our **support community**  
 - Guidance available for **setup, deployment, and theme customization**
 
 ---
